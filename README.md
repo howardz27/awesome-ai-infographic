@@ -1,6 +1,9 @@
-# Awesome AI Infographic [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-
-<img src="assets/logo.png" width="128" height="128" alt="Awesome AI Infographic logo">
+<div>
+  <p align="center">
+    <img src="assets/logo.png" width="128" height="128" alt="Awesome AI Infographic logo">
+  </p>
+  <h1>Awesome AI Infographic <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome"></a></h1>
+</div>
 
 > A curated list of AI tools, skills, models and research for generating infographics, charts and diagrams.
 

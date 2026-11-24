@@ -1,6 +1,9 @@
-# AI 信息图资源精选 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-
-<img src="assets/logo.png" width="128" height="128" alt="AI 信息图资源精选标志">
+<div>
+  <p align="center">
+    <img src="assets/logo.png" width="128" height="128" alt="AI 信息图资源精选标志">
+  </p>
+  <h1>AI 信息图资源精选 <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome"></a></h1>
+</div>
 
 > AI 信息图资源精选，涵盖生成工具、Agent Skills、模型、论文，以及可嵌入信息图的图表与图解。
 
